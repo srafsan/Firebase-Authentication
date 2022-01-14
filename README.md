@@ -1,0 +1,1 @@
+Google, Facebook and Email verification using React and Firebase.
